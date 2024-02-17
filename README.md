@@ -21,7 +21,7 @@
 <a href="https://php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="git" width="90" height="90"/> 
 <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="git" width="90" height="90"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="90" height="90">
-
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-ar21.svg" width="90" height="90"/>
 <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" width="90" height="90">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="90" height="90" >
